@@ -4,6 +4,6 @@ This is web application to parse a JSON file.This application fetches the given 
 
 ### Screenshot
 
-![Snapshot of Application](Rahul19998/json-csv-convertor/2020-01-16 09.16.04 f91557bebda4.png)
+![2020-01-16 09.16.04 f91557bebda4](2020-01-16 09.16.04 f91557bebda4.png)
 
 
